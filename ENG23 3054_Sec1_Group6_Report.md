@@ -99,9 +99,10 @@ https://drive.google.com/file/d/11ce2zFMBnMO3eJoFVK7WEMobu7seUv3G/view?usp=drive
 > *แสดงภาพหน้าจอ (Screenshots) หรือผลลัพธ์จากการรันโปรแกรม พร้อมคำอธิบาย*
 
 * **ผลลัพธ์ที่ 1:** [อธิบาย]
-    * ![คำอธิบายรูป](ใส่_Link_หรือ_Path_รูปภาพตรงนี้_1.png)
+    * ![คำอธิบายรูป](https://raw.githubusercontent.com/punpup09/Automated-Smart-Garden/main/Picture/Smart_garden_dashboard_pc.png)
+    
 * **ผลลัพธ์ที่ 2:** [อธิบาย]
-    * ![คำอธิบายรูป](ใส่_Link_หรือ_Path_รูปภาพตรงนี้_2.png)
+    * ![คำอธิบายรูป](https://raw.githubusercontent.com/punpup09/Automated-Smart-Garden/main/Picture//Smart_garden_dashboard_mobile.jpg)
 
 ## 5. สรุปผลการดำเนินงานและข้อเสนอแนะ
 
