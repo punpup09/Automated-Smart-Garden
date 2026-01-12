@@ -98,11 +98,21 @@ https://drive.google.com/file/d/11ce2zFMBnMO3eJoFVK7WEMobu7seUv3G/view?usp=drive
 ## 4. ผลการดำเนินงาน
 > *แสดงภาพหน้าจอ (Screenshots) หรือผลลัพธ์จากการรันโปรแกรม พร้อมคำอธิบาย*
 
-* **ผลลัพธ์ที่ 1:** [อธิบาย]
+* **ผลลัพธ์ที่ 1:** นี่คือรูปตัวอย่างเมื่อทำการรัน code main เเล้วระบบจะสามารถรับค่าจาก sensor ได้ดังนี้ เเล้วทำการนำไปเเสดงผลใน Bylnk
     * ![คำอธิบายรูป](https://raw.githubusercontent.com/punpup09/Automated-Smart-Garden/main/Picture/Smart_garden_dashboard_pc.png)
-    
-* **ผลลัพธ์ที่ 2:** [อธิบาย]
-    * ![คำอธิบายรูป](https://raw.githubusercontent.com/punpup09/Automated-Smart-Garden/main/Picture//Smart_garden_dashboard_mobile.jpg)
+
+
+* **ผลลัพธ์ที่ 2:** นี่คือรูปภาพ Dashboard ใน pc
+    * ![คำอธิบายรูป](https://raw.githubusercontent.com/punpup09/Automated-Smart-Garden/main/Picture/Smart_garden_dashboard_pc.png)
+
+* **ผลลัพธ์ที่ 3:** รูปภาพ dashboard ใน mobile
+    * <img src="https://raw.githubusercontent.com/punpup09/Automated-Smart-Garden/main/Picture/Smart_garden_dashboard_mobile.jpg" width="300">
+
+* **ผลลัพธ์ที่ 4:** นี่คือรูปภาพ Notification ของ Discord
+    * ![คำอธิบายรูป](https://raw.githubusercontent.com/punpup09/Automated-Smart-Garden/main/Picture/Smart_garden_discord.png)
+
+* **ผลลัพธ์ที่ 5:** นี่คือรูปภาพ Hardware
+    * ![คำอธิบายรูป](https://raw.githubusercontent.com/punpup09/Automated-Smart-Garden/main/Picture/)
 
 ## 5. สรุปผลการดำเนินงานและข้อเสนอแนะ
 
