@@ -1,0 +1,20 @@
+
+# Ignore Virtual Environment
+.venv/
+venv/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore Media Files (ไฟล์รูปและวิดีโอไม่ต้องเอาขึ้น)
+timelapse_shots/
+videos/
+*.jpg   
+*.mp4
+
+# Ignore Logs
+garden_history.txt
+
+# Ignore System Files
+.DS_Store
