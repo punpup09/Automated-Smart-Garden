@@ -82,7 +82,7 @@
 
 **แผนภาพกระบวนการทำงาน (System Flowchart)**
 
-![แผนภาพกระบวนการทำงานทั้งหมด](Picture/Smart_garden_flow.png)
+![แผนภาพกระบวนการทำงานทั้งหมด](https://raw.githubusercontent.com/punpup09/Automated-Smart-Garden/main/Picture/Smart_garden_flow.png)
 
 https://drive.google.com/file/d/11ce2zFMBnMO3eJoFVK7WEMobu7seUv3G/view?usp=drive_link
 
