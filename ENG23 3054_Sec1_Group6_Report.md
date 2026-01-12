@@ -1,8 +1,8 @@
 # รายงานโครงงานรายวิชา ENG23 3054 ระบบปฏิบัติการ
 
-**หัวข้อโครงงาน (ภาษาไทย):** [ระบบรดน้ำต้นไม้อัตโนมัติ]
+**หัวข้อโครงงาน (ภาษาไทย):** ระบบรดน้ำต้นไม้อัตโนมัติ
 
-**หัวข้อโครงงาน (ภาษาอังกฤษ):** [Automated Smart Garden]
+**หัวข้อโครงงาน (ภาษาอังกฤษ):** Automated Smart Garden
 
 ---
 
@@ -82,7 +82,9 @@
 
 **แผนภาพกระบวนการทำงาน (System Flowchart)**
 
-![แผนภาพกระบวนการทำงานทั้งหมด](https://drive.google.com/file/d/11ce2zFMBnMO3eJoFVK7WEMobu7seUv3G/view?usp=drive_link)
+![แผนภาพกระบวนการทำงานทั้งหมด](Picture/Smart_garden_flow.png)
+
+https://drive.google.com/file/d/11ce2zFMBnMO3eJoFVK7WEMobu7seUv3G/view?usp=drive_link
 
 ระบบนี้คือการสร้างระบบดูแลต้นไม้อัตโนมัติโดยใช้ Raspberry Pi 3 เป็นศูนย์กลางการควบคุม (Main Controller) เพื่อช่วยอำนวยความสะดวกในการดูแลพืชพรรณผ่านเทคโนโลยี IoT โดยแบ่งการทำงานออกเป็น 3 ส่วนหลัก ดังนี้:
 
